@@ -33,7 +33,7 @@ With a foundational background in chemical engineering and industrial process au
 ---
 
 ### 🤝 Let's Connect
-* **LinkedIn:** [Your Professional Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/victoria-kalane-185a4b2aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8rgnhA2XQKau2qB5GxjYfg%3D%3D
 * **Email:** kalanevictoria98@gmail.com 
 
 ---
