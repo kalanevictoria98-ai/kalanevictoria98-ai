@@ -28,7 +28,7 @@ With a foundational background in chemical engineering and industrial process au
 
 ### 📁 Featured Practical Portfolios
 
-👉 **Bootcamp Capstones Repo:** Autonomous MFA Engine | Automated Ciphers | Exploitation Lab Report(https://github.com/kalanevictoria98-ai/-cybersecurity-bootcamp-capstones)
+👉 **Bootcamp Capstones Repo:** Autonomous MFA Engine | Automated Ciphers | Exploitation Lab Report ( https://github.com/kalanevictoria98-ai/-cybersecurity-bootcamp-capstones )
 
 ---
 
